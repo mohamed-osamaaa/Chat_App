@@ -26,6 +26,7 @@ Key features include:
 - **Responsive design** using TailwindCSS and Daisy UI
 - **Error handling** on both the server and client sides
 - **Online user status tracking**
+- **Toast Notifications** for success and error messages
 
 ## Tech Stack
 
